@@ -3,7 +3,7 @@ I am Daniel Obare N, currently in Software Engineering learning languages and fr
 
 I have interests in embedded systems engineering with programming knowledge in Rust, C++
 
-See my attached resume in danielobare repo
+See my attached resume in danielobare repo.
 
 
 
