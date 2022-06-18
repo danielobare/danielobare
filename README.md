@@ -1,7 +1,7 @@
 # About Me:
 I am Daniel Obare N, currently in Software Engineering learning languages and frameworks like HTML5, CSS3, JavaScript, and soon React. My experience spans MYSQL, some Python beginner basic knowledge, Cloud Computing with certification from AWS in its Cloud Practitioner foundations training & AWS re/Start. 
 
-I will be enrolling in Google Africa Development Scholarship to pursue Android Development. I have interests in embedded systems engineering with very basic programming knowledge in Rust, C++
+I have interests in embedded systems engineering with programming knowledge in Rust, C++
 
 See my attached resume in danielobare repo
 
