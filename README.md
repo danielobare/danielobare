@@ -3,7 +3,7 @@ I am Daniel Obare N, currently in Software Engineering learning languages and fr
 
 I will be enrolling in Google Africa Development Scholarship to pursue Android Development. I have interests in embedded systems engineering with very basic programming knowledge in Rust, C++
 
-See my attached resume in README files.
+See my attached resume in danielobare repo
 
 
 
