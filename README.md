@@ -1,5 +1,5 @@
 #### About Me:
-I am Daniel Obare N, currently in Software Engineering learning languages and frameworks like HTML5, CSS3, JavaScript, and soon React. My experience spans MYSQL, some Python beginner basic knowledge, Cloud Computing with certification from AWS in its Cloud Practitioner foundations training & AWS re/Start. 
+I am Daniel Obare N, currently in Software Engineering learning languages and frameworks like HTML5, CSS3, JavaScript, and soon React. My experience spans MYSQL, some Python beginner basic knowledge, Matlab & Octave, Cloud Computing with certification from AWS in its Cloud Practitioner foundations training & AWS re/Start. 
 
 I have interests in embedded systems engineering with programming knowledge in Rust, C++
 
