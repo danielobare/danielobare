@@ -5,7 +5,7 @@ I have interests in embedded systems engineering with programming knowledge in R
 
 See my attached resume in danielobare repo.
 
-Social profile links at bio.link/danielobare
+Social profile links at https://bio.link/danielobare
 
 
 
